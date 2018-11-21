@@ -1,0 +1,15 @@
+# Ignore specific file extensions
+*.log
+*.txt
+*.csv
+
+# Ignore specific folders
+.idea/
+.ipynb_checkpoints/
+.eclipse
+*/.idea/
+*/.ipynb_checkpoints/
+*/.eclipse/
+*/**/.idea/
+*/**/.ipynb_checkpoints/
+*/**/.eclipse/
